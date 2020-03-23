@@ -1,0 +1,192 @@
+Uri: https://globalpazarim.com/index.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\index.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/template/assets/styles/css/bootstrap.min.css
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://globalpazarim.com/template/assets/styles/css/owl.carousel.min.css
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://globalpazarim.com/template/assets/styles/css/magnific-popup.css
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://globalpazarim.com/template/assets/styles/css/main.css
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\main.css
+Content Type: text/css
+
+Uri: https://globalpazarim.com/template/assets/styles/css/urun.css
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\urun.css
+Content Type: text/css
+
+Uri: https://globalpazarim.com/template/assets/images/logo.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/hakkimizda.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\hakkimizda.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/iletisimmail.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\iletisimmail.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/template/uploads/minecraft.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\uploads\minecraft.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/template/assets/images/icons/announcement-icon-2.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\images\icons\announcement-icon-2.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/regedit.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\regedit.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/file/img/urun/Z3gnb0.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\file\img\urun\Z3gnb0.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/nitropremium.jpg
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\nitropremium.jpg
+Content Type: image/jpeg
+
+Uri: https://globalpazarim.com/ovgu.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\ovgu.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/report.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\report.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/instagram.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\instagram.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/template/assets/images/icons/ok-icon.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\images\icons\ok-icon.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/template/assets/images/visa-mastercard.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\images\visa-mastercard.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/template/uploads/Logo2.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\uploads\Logo2.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/kullanim-sartlari.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\kullanim-sartlari.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/yasal-uyari.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\yasal-uyari.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/sss.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\sss.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/bedava-mc-premium.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\bedava-mc-premium.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/template/assets/scripts/jquery-3.3.1.min.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\scripts\jquery-3.3.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/scripts/bootstrap.min.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\scripts\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/scripts/owl.carousel.min.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\scripts\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/scripts/jquery.mask.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\scripts\jquery.mask.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/scripts/jquery.magnific-popup.min.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\scripts\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/scripts/main.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\scripts\main.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/styles/css/assets/fonts/SourceSansPro-Regular.woff
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\assets\fonts\SourceSansPro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://globalpazarim.com/template/assets/styles/css/assets/fonts/SourceSansPro-Bold.woff
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\assets\fonts\SourceSansPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://globalpazarim.com/template/assets/styles/css/assets/fonts/SourceSansPro-SemiBold.woff
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\assets\fonts\SourceSansPro-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://globalpazarim.com/template/assets/styles/css/assets/fonts/SourceSansPro-Black.woff
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\styles\css\assets\fonts\SourceSansPro-Black.woff
+Content Type: application/font-woff
+
+Uri: https://globalpazarim.com/file/img/urun/background.jpg
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\file\img\urun\background.jpg
+Content Type: image/jpeg
+
+Uri: https://globalpazarim.com/file/images/kategori_arkaplan.jpg
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\file\images\kategori_arkaplan.jpg
+Content Type: image/jpeg
+
+Uri: https://globalpazarim.com/template/uploads/Logo.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\uploads\Logo.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/index.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\index.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/hakkimizda.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\hakkimizda.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/kullanim-sartlari.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\kullanim-sartlari.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/yasal-uyari.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\yasal-uyari.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/sss.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\sss.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/bedava-mc-premium.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\bedava-mc-premium.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/404.php.html
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\404.php.html
+Content Type: text/html
+
+Uri: https://globalpazarim.com/file/js/kar.js
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\file\js\kar.js
+Content Type: application/x-javascript
+
+Uri: https://globalpazarim.com/template/assets/images/icons/announcement-icon.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\template\assets\images\icons\announcement-icon.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/file/img/404.png
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\file\img\404.png
+Content Type: image/png
+
+Uri: https://globalpazarim.com/file/css/style.css
+File Name: C:\Users\Hamza\Desktop\Websiteler\globalpazarim.com\file\css\style.css
+Content Type: text/css
+
